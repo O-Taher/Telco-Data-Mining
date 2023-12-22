@@ -1,2 +1,8 @@
 # Telco-Data-Mining
-the "Telco Customer Churn Study" project aimed to address high customer churn by analyzing data and developing strategies for a Telco company. Python played a crucial role, enabling efficient data analysis, visualization, and machine learning model development.
+The project called "Telco Customer Churn Study" was all about tackling the high rate of customers leaving a Telco company. We analyzed data provided by the company, focusing on things like customer details, service plans, contracts, and how long they stayed with the company. Our goal was to figure out why customers were leaving and come up with strategies to keep them, which would ultimately boost the company's retention, revenue, and profitability.
+
+Python was the main programming language we used throughout the project. It played a crucial role in analyzing the data and developing models. We relied on Python's libraries like Pandas and NumPy to clean and explore the Telco dataset. And when it came to visualizing the data, we used Matplotlib and Seaborn to create charts and plots that helped us better understand the variables and trends related to customer churn.
+
+Python's machine learning ecosystem, particularly the scikit-learn library, was essential for building predictive models. We implemented different algorithms, with the random forest model performing the best. Python's scikit-learn provided convenient functions for training, evaluating, and fine-tuning the models. We also made use of PyCaret, a Python library, to compare and select the most suitable models.
+
+Python's versatility, extensive libraries, and user-friendly syntax made it the perfect choice for our project. It allowed us to efficiently analyze the data, visualize the findings, and develop machine learning models. The insights and recommendations we derived from our Python-driven analysis provided valuable guidance for the Telco company to take action and improve customer retention.
